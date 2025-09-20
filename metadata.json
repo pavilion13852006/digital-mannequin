@@ -1,0 +1,5 @@
+{
+  "name": "Digital Mannequin AI",
+  "description": "An application that allows users to virtually try on clothing using AI by uploading a photo of a model and a photo of a garment.",
+  "requestFramePermissions": []
+}
